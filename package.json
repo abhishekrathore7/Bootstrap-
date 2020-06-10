@@ -14,10 +14,15 @@
     "lite-server": "^2.3.0"
   },
   "dependencies": {
+<<<<<<< HEAD
     "bootstrap": "^4.0.0",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
+=======
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.5.0",
+>>>>>>> 1cbf5cdfd4ee9491c9ad7f80e6caf5f3ccee13cb
     "popper.js": "^1.12.9"
   }
 }
